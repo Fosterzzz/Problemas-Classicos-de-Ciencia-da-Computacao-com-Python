@@ -5,7 +5,6 @@ def fib5(n: int) -> int:
     print(f'{last} \n {next}')
     for _ in range(1, n):
         last, next = next, last + next
-        print(f'{last} || {next}')
     return next
 
 
