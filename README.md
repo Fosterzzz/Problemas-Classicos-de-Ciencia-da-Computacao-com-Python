@@ -1,13 +1,13 @@
 # Problemas clássicos da Ciência da Computação
 
-Esse projeto foi dedicado ao estudo do livro e sua resoluções do problema
+Esse projeto foi dedicado ao estudo do livro e suas resoluções 
 
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ```
-git clone https://github.com/JoaoViana1/Nutri_lab.git
+git clone https://github.com/JoaoViana1/Problemas-Classicos-de-Ciencia-da-Computacao-com-Python.git
 ```
 
 ### 📋 Pré-requisitos
