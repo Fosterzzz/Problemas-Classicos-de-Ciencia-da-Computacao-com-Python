@@ -4,4 +4,4 @@ def fib1(n : int) -> int:
 
 
 if __name__ == "__main__":
-    print(fib1(5))
+    print(fib1(2))

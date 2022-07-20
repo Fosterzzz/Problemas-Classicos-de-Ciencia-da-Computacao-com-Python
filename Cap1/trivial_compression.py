@@ -2,7 +2,6 @@ class CompressedGene:
     def __init__(self, gene: str) -> None:
         self.compress(gene)
 
-
     def compress(self, gene:str) -> None:
         self.bit_string: int = 1 # começa com uma sentinela
         for nucloide in gene.upper():
@@ -32,7 +31,7 @@ class CompressedGene:
             elif bits == 0b11: #T
                 gene += "T"
             else:
-                raise ValueErro("Invalid Nucleoid:{}".format(nucloide))
+                raise ValueError("Invalid Nucleoid:{}".format(nucloide))
         return gene[::1] #[::-1] Inverte a string usando fatiamento de inversão
 
 
