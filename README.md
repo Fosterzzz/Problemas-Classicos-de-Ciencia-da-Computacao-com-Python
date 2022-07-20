@@ -16,13 +16,13 @@ git clone https://github.com/JoaoViana1/Problemas-Classicos-de-Ciencia-da-Comput
 
 
 
-* [Python](https://docs.python.org/3.7/) - Linguagem Usada
+
 
 ## 🖇️ Colaborando
 
 ## 📌 Versão
 
-* Python 3.7
+* [Python](https://docs.python.org/3.7/) - Linguagem Usada
 ## ✒️ Autores
 
 
